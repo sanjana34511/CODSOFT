@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="bb36bcad-5751-4481-9bf7-2edd7f7cd582" name="Changes" comment="first commit">
-=======
-    <list default="true" id="3c14e869-a6b6-4167-b037-4c0203e046bb" name="Changes" comment="init commit">
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +13,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -30,10 +25,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-=======
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,33 +39,22 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-<<<<<<< HEAD
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="30oFvKgoNwKgWo2evVOpZSRn2DD" />
-=======
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="30dAW4WkvEp1uUvEBEc77mnIw8A" />
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-<<<<<<< HEAD
     &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
     &quot;Application.CurrencyConverter.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-=======
-    &quot;Application.MarksCalculator.executor&quot;: &quot;Run&quot;,
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-<<<<<<< HEAD
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/Desktop/Currency Converter/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
@@ -217,53 +197,11 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
-=======
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/Desktop/task 2/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
-  }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="task 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="task 2" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="3c14e869-a6b6-4167-b037-4c0203e046bb" name="Changes" comment="" />
-      <created>1753947105577</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1753947105577</updated>
-    </task>
-    <task id="LOCAL-00001" summary="init commit">
-      <option name="closed" value="true" />
-      <created>1754284393965</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1754284393965</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/CurrencyConverter.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
@@ -273,12 +211,6 @@
           <line>29</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-=======
-          <url>file://$PROJECT_DIR$/src/MarksCalculator.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
->>>>>>> 19a48057a2556aeae4444b0cc35a8c526319f35c
       </breakpoints>
     </breakpoint-manager>
   </component>
