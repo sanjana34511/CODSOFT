@@ -50,7 +50,7 @@ class StudentManagementSystem {
     }
 }
 
-public class StudentManagementApp {
+public class  StudentManagementApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StudentManagementSystem sms = new StudentManagementSystem();

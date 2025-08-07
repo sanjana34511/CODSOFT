@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Student Managment System.iml" filepath="$PROJECT_DIR$/Student Managment System.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Currency Converter.iml" filepath="$PROJECT_DIR$/Currency Converter.iml" />
+>>>>>>> ab79381680c46d254725085b852d01c56586107d
     </modules>
   </component>
 </project>
